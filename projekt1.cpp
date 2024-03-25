@@ -2,7 +2,7 @@
 
 using namespace std;
 
-}
+
 void silnia(int a, int b)
 {
     int wynikA = 1, wynikB = 1;
